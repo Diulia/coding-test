@@ -2,8 +2,7 @@
 
 - Retrieve the data from the static series endpoint, and output this into a table or list
 - Add in the ability to be able to filter this table/list by title along with a text filter for tournament name
-- Use whatever your feel comfortable to style the table/list following the design below
-
+- Use whatever your feel comfortable to style the table/list following the design below.
 
 
 ### `yarn server`
